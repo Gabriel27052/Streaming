@@ -1,13 +1,31 @@
+*{
+    font-family: sans-serif;
+}
+body {
+    background-color: black;
+}
+
 #banner {
-    position: absolute;
-top: 0px;
 width: 70% ;
 height: 50% ;
 }
 .recomendação {
     width:80% ;
     height:40% ;
+    margin: 0 20px;
+}
+.animes {
+width: 250px;
+height: 325px;
+margin: 0 10px;
 }
 #textinho {
-    font-size: 50px;
+    font-size: 60px;
+    margin: 30px 10px 30px;
+    color: white;
+}
+#ação {
+    font-size: 30px;
+    margin: 0 10px 5px;
+    color: white;
 }
